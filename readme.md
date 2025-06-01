@@ -37,7 +37,7 @@ TECHCON_HTML/
 ## 💡 Notes
 
 - This project is part of the **ALX Frontend Program**, designed to build core skills in HTML.
-- No CSS or JavaScript is used—purely HTML-focused.
+- No CSS or JavaScript is used, purely HTML-focused.
 
 ## 👨‍💻 Author
 
